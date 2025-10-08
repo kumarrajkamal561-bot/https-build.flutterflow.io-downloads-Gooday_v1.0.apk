@@ -1,0 +1,2 @@
+# https-build.flutterflow.io-downloads-Gooday_v1.0.apk
+Gooday is your all-in-one digital retailer app designed to make every day easier and better! Recharge mobiles, pay bills, transfer money, and book travel — all from one simple dashboard. 💡 Key Features: 🔋 Mobile, DTH &amp; Data Recharge 💰 Money Transfer &amp; Wallet Services 🏠 Electricity, Water &amp; Gas Bill Payment 🚌 Bus, Train &amp; Flight Booking
